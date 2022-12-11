@@ -155,7 +155,7 @@ python3 flask_example.py
 
 And you'll see the following (includes info after testing):
 
-![Flask execution](https://github.com/Carlosma7/awesome-python-api-framework/blob/main/img/flask_execution.png)
+![Flask execution](../img/flask_execution.png)
 
 Now, to test it we will do a small example with:
 1. **POST** a new name.
@@ -165,4 +165,4 @@ Now, to test it we will do a small example with:
 5. **DELETE** to remove a name.
 6. **GET** to see final list of names.
 
-![Curl requests](https://github.com/Carlosma7/awesome-python-api-framework/blob/main/img/flask_curl.png)
+![Curl requests](../img/flask_curl.png)

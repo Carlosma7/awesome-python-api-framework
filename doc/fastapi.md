@@ -1,11 +1,9 @@
 
 # FastAPI
 
-  
 
 Table of contents
 
-  
 
 1. [Introduction](#introduction)
 
@@ -45,8 +43,6 @@ FastAPI is built on top of *asyncio*, which is a library for writing asynchronou
 ## Tutorial
 
 1. Install FastAPI by running the following command: `pip install fastapi`
-
-  
 
 2. Create a new Python file, and import FastAPI:
 
@@ -165,15 +161,11 @@ def remove_name(item: dict):
     return 'Name removed'
 ```
 
-  
-
 And you'll see the following (includes info after testing):
 
-  
 
-![FastAPI execution](https://github.com/Carlosma7/awesome-python-api-framework/blob/main/img/fastapi_execution.png)
+![FastAPI execution](../img/fastapi_execution.png)
 
-  
 
 Now, to test it we will do a small example with:
 
@@ -189,7 +181,6 @@ Now, to test it we will do a small example with:
 
 6. **GET** to see final list of names.
 
-  
 
-![Curl requests](https://github.com/Carlosma7/awesome-python-api-framework/blob/main/img/fastapi_curl.png)
+![Curl requests](../img/fastapi_curl.png)
 

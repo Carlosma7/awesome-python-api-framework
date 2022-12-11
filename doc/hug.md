@@ -1,5 +1,5 @@
 
-# Flask
+# Hug
 
 Table of contents
 
@@ -135,7 +135,7 @@ hug -f hug_example.py -p 8080
 
 And you'll see the following (includes info after testing):
 
-![Hug execution](https://github.com/Carlosma7/awesome-python-api-framework/blob/main/img/hug_execution.png)
+![Hug execution](../img/hug_execution.png)
 
 Now, to test it we will do a small example with:
 1. **POST** a new name.
@@ -145,4 +145,4 @@ Now, to test it we will do a small example with:
 5. **DELETE** to remove a name.
 6. **GET** to see final list of names.
 
-![Curl requests](https://github.com/Carlosma7/awesome-python-api-framework/blob/main/img/hug_curl.png)
+![Curl requests](../img/hug_curl.png)
