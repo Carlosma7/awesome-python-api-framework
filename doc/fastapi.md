@@ -117,7 +117,7 @@ File is located [here](https://github.com/Carlosma7/awesome-python-api-framework
 import logging
 from fastapi import FastAPI
 
-# Define flask app
+# Define fastapi app
 app = FastAPI()
 
 # Define level of logging and logger

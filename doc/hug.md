@@ -32,7 +32,7 @@ HUG is built on top of Python's Falcon web framework, which is an ASGI (Asynchro
 
 ## Tutorial
 
-1. Install Flask by running the following command: `pip install hug`
+1. Install Hug by running the following command: `pip install hug`
 
 2. Create a new Python file, and import Hug:
 
