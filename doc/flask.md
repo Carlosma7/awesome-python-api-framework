@@ -51,7 +51,7 @@ app = Flask(__name__)
 4. Now that you have a Flask app, you can define routes that can be accessed by users. A route is a URL pattern that the Flask app responds to, and a function that is called when that route is accessed. To define a route, use the `@app.route` decorator and specify the URL pattern as the first argument. The function that will be called when that route is accessed is the argument to the decorator. For example:
 
 ```python
-`@app.route('/hello')
+@app.route('/hello')
 def hello():
     return 'Hello, World!'`
 ```
@@ -79,7 +79,7 @@ def hello():
 To pass parameters in a POST request in Flask, you can use the `request.form` attribute, which is a dictionary-like object containing the data that was sent in the request body. For example, if you want to pass a name parameter in a POST request and retrieve it in the Flask route, you could do something like this:
 
 ```python
-`@app.route('/hello', methods=['POST'])
+@app.route('/hello', methods=['POST'])
 def hello():
     name = request.form['name']
     return f'Hello, {name}!'`
