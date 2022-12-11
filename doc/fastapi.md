@@ -171,7 +171,7 @@ And you'll see the following (includes info after testing):
 
   
 
-![Flask execution](https://github.com/Carlosma7/awesome-python-api-framework/blob/main/img/fastapi_execution.png)
+![FastAPI execution](https://github.com/Carlosma7/awesome-python-api-framework/blob/main/img/fastapi_execution.png)
 
   
 
